@@ -40,3 +40,5 @@ while count < size - 2
   count += 1
 end
 puts "*" * size
+
+puts "Thanks for playing the game! :)"
